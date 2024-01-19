@@ -1,3 +1,11 @@
+## University of Arizona DataLab.
+
+
+<p style="text-align:center;">
+<img src="https://github.com/clizarraga-UAD7/DataScienceLab/blob/main/images/UADLSquareLogo.png?raw=true" width=200>
+</p>
+
+
 # DLWorkshops
 
 A repository for materials used for Data Lab trainings and workshop series on deep learning. Each directory is named after the title of individual workshops.
