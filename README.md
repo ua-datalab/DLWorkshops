@@ -14,13 +14,13 @@ The "Introduction to Deep Learning" workshop is a comprehensive resource for Ph.
 * Zoom: https://arizona.zoom.us/j/86423223879
 * Qualtrics Registration: https://uarizona.co1.qualtrics.com/jfe/form/SV_exLckAyzfnUTKHc
  
-| Date |  Topic | Instructor | Helper
-| :--: | :--: | :--: | :--: |
-|   01/18  |   Intro to Deep Learning | Mithun | Megh, Carlos
-| 01/25 | Deep Learning fundamental architectures 1  | Mithun |
-|  02/01   |   Deep Learning fundamental architectures 2   | Mithun |
-|    02/08 |  Intro to Natural Language processing 1  | 
-|   02/15  |  Intro to Natural Language processing 2   |
+| Date |  Topic | 
+| :--: | :--: | 
+|   01/18  |   Intro to Deep Learning | 
+| 01/25 | Deep Learning Fundamental Architectures 1  | 
+|  02/01   |   Deep Learning fundamental architectures 2   | 
+|    02/08 |  Intro to Natural Language Processing 1  | 
+|   02/15  |  Intro to Natural Language Processing 2   |
 |    02/22 |  Applications of deep learning 1 | 
 |   02/29  |  Applications of deep learning 2  | 
 |   03/07 |   **Spring break** | 
@@ -28,7 +28,7 @@ The "Introduction to Deep Learning" workshop is a comprehensive resource for Ph.
 |    03/21 |  Applications of deep learning 4  | 
 |    03/28 |  Image analysis and deep learning 1  | 
 |   04/04  |  Image analysis and deep learning 2  | 
-|    04/11 |  State of the art of Deep Learning 1  | 
+|    04/11 |  State of the Art of Deep Learning 1  | 
 |   04/18  | Quantum AI 1   | 
 |    04/25 | Quantum AI 2   | 
 
