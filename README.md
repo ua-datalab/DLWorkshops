@@ -1,26 +1,29 @@
-## University of Arizona DataLab.
-
 
 <p style="text-align:center;">
 <img src="https://github.com/clizarraga-UAD7/DataScienceLab/blob/main/images/UADLSquareLogo.png?raw=true" width=200>
 </p>
 
+## University of Arizona DataLab Spring 2024 Workshops
 
-# DLWorkshops
-
-A repository for materials used for Data Lab trainings and workshop series on deep learning. Each directory is named after the title of individual workshops.
+A repository for materials used for Data Lab training and workshop series on deep learning. Each directory is named after the title of individual workshops.
 
 Please visit the [Wiki](https://github.com/ua-datalab/DLWorkshops/wiki)  to find details of each lecture.
 
 ### Intro to Deep Learning
 
+In this series, you will learn everything about deep learning and how large language models work. We will start with how deep learning works fundamentally and by the end of the workshop series, you will be building your own ChatGPT. No prerequisites except Python knowledge are required.
 
-The "Introduction to Deep Learning" workshop is a comprehensive resource for Ph.D. students in data modeling and visualization. Participants will gain practical experience with cutting-edge tools and techniques and be prepared to use deep learning in their research.
+***
 
-* [Repo](https://github.com/ua-datalab/DLWorkshops/wiki)
-* Thursdays at 3PM: Weaver Science and Engineering Library Rm 212
-* Zoom: https://arizona.zoom.us/j/86423223879
-* Qualtrics Registration: https://uarizona.co1.qualtrics.com/jfe/form/SV_exLckAyzfnUTKHc
+**RESOURCES AND NOTES:**
+
+* [REGISTER](https://uarizona.co1.qualtrics.com/jfe/form/SV_exLckAyzfnUTKHc)
+* [Introduction to Deep Learning wiki](https://github.com/ua-datalab/DLWorkshops/wiki)
+* We meet on Thursdays at 3 PM in Weaver Science and Engineering Library Rm 212.
+* Zoom: [https://arizona.zoom.us/j/86423223879](https://arizona.zoom.us/j/86423223879)
+* There will be no workshop during Spring Break week.
+* Content schedule and content are subject to change. 
+
  
 | Date |  Topic | 
 | :--: | :--: | 
